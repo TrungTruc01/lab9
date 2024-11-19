@@ -1,0 +1,14 @@
+<resources>
+    <!-- Tên ứng dụng -->
+    <string name="app_name">Lab9</string>
+
+    <string name="choose_datetime">Chọn ngày giờ</string>
+    <string name="delete_all">Xóa tất cả</string>
+    <string name="enter_name">Nhập tên</string>
+    <string name="option_menu">Hiển thị OptionMenu</string>
+    <string name="search">Tìm kiếm</string>
+    <string name="settings">Cài đặt</string>
+    <string name="share">Chia sẻ</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+</resources>

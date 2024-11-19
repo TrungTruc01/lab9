@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_bai1" android:title="Bài 1: DatePicker TimePicker" />
+    <item android:id="@+id/nav_bai2" android:title="Bài 2: AlertDialog" />
+    <item android:id="@+id/nav_bai3" android:title="Bài 3: Custom AlertDialog" />
+    <item android:id="@+id/nav_bai4" android:title="Bài 4: OptionMenu" />
+    <item android:id="@+id/nav_bai5" android:title="Bài 5: ContextMenu" />
+    <item android:id="@+id/nav_bai6" android:title="Bài 6: BroadcastReceiver" />
+</menu>
